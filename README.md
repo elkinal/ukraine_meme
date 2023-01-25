@@ -22,3 +22,7 @@ following the Kharkiv Counteroffensive, again suggesting the target audiences ar
 informal/crowdsourced meme campaign by shaping or influencing it
 immediately following - or even during - a key phase of the campaign. 
 It's an additive or multiplicative tool, in the vein of combined arms maneuver, rather than a silver-bullet. 
+
+The events in the graph were based on the [New York Times' list of Key moments](https://www.nytimes.com/article/ukraine-russia-war-timeline.html) in the Russia-Ukraine War.
+
+
