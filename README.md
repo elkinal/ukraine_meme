@@ -1,6 +1,8 @@
 # ukraine_meme
 ![Data Graph](graph.png)
 
+### 📰 Research published on [Brookings.edu](https://www.brookings.edu/techstream/lessons-from-the-meme-war-in-ukraine/)
+
 This graph demonstrates some interesting observations about meme campaign about the War in Ukraine:
 
 - The meme campaign seems to be more pronounced during the initial half of the war (Feb-Aug 2022) at which public interest waned. This suggests
